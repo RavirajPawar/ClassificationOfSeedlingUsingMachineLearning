@@ -11,7 +11,6 @@ this is our group project so i am also providing IEEE paper also.
 it has some additional discription about project.
 result.png
 it is just screenshot which has result.
-
 hope it will help you!!!!!!!!!!!!!!!!!!!
 project performed by students of 
 Government College of Engineering, Karad, Maharastra, India
